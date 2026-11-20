@@ -9,6 +9,8 @@ The project is useful for recruiter-style workflows such as:
 - "Match candidates for this job description"
 - "Summarize the best contacts for a hiring need"
 
+> 📘 **Full documentation** — high-level design, architecture diagrams, flow diagrams, data model, API/MCP reference, and known limitations: [docs/PROJECT_DOCUMENTATION.md](docs/PROJECT_DOCUMENTATION.md)
+
 ## Features
 
 - Natural-language contact search through a FastAPI endpoint.
